@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="abfc6009-69ad-4d15-b4f1-4d61fa057ea0" name="daninoz" url="http://daninoz.com">
+        <fileTransfer host="104.131.59.14" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/daninoz" accessType="SFTP" username="root" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
